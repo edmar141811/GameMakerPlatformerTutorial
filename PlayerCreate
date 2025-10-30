@@ -1,1 +1,5 @@
 
+//code for sPlayer in GamemMaker tutorial
+window_set_size(1480,920) //setting the pop up window
+xsp=0 //x movement variable
+ysp=0 //y movement variable
